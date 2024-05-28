@@ -59,3 +59,8 @@ it will show your global name and email. If there is none, you should add one wi
 
 git config --global user.name "Your Name"
 git config --global user.email "your-email@example.com"
+
+git log 
+	- displays all the commits that were made
+git log --oneline
+	- condensed version of the git log
